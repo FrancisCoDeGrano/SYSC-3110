@@ -35,15 +35,7 @@ public class AddressBook{
 
     public static void main(String [] args){
         System.out.println("AddressBook");
-        BuddyInfo francisco = new BuddyInfo("Francisco");
-        BuddyInfo doro = new BuddyInfo("Doro");
 
-        AddressBook newf = new AddressBook(); //newfriend in address book
-
-        newf.addBuddy(francisco);
-        newf.addBuddy(doro);
-
-        System.out.println(newf);
 
     }
 
