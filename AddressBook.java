@@ -27,6 +27,10 @@ public class AddressBook{
         this.newfriend.remove(buddy);
     }
 
+    public void renameBuddy(BuddyInfo buddy){
+
+    }
+
     // toString method from SYSC 2004
     public String toString(){
         String result = "";
