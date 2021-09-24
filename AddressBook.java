@@ -4,6 +4,9 @@ Francisco De Grano
 
 I made changes to lab 1 used to only have get and set name
 added things relevant to an address book.
+
+This is me inserting changes following step 17.
+
  */
 
 import java.util.ArrayList;
