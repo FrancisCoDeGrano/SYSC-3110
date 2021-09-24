@@ -37,11 +37,13 @@ public class AddressBook{
         System.out.println("AddressBook");
         BuddyInfo francisco = new BuddyInfo("Francisco");
         BuddyInfo doro = new BuddyInfo("Doro");
+        BuddyInfo eebro = new BuddyInfo("Eebro");
 
         AddressBook newf = new AddressBook(); //newfriend in address book
 
         newf.addBuddy(francisco);
         newf.addBuddy(doro);
+        newf.addBuddy(eebro);
 
         System.out.println(newf);
 
